@@ -3,9 +3,10 @@
 _This application calculates and visualize the probabilty density functions_
 
 ### Binomial Distribution
+![Bimomial distribution](https://github.com/MafikengZ/Distributions/images/binomial.png)
 
 ### Gaussian Distribution
-
+![Gaussian distribution](https://github.com/MafikengZ/Distributions/images/normpdf1.jpg)
 
 ## Installations
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install distribution.
