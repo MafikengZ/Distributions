@@ -2,6 +2,8 @@
 
 _This application calculates and visualize the probabilty density functions_
 
+![Probability density function](https://github.com/MafikengZ/Distributions/blob/main/images/1_bHlmeUZ0eaugeBdl4oXDqA.png)
+
 ### Binomial Distribution
 ![Bimomial distribution](https://github.com/MafikengZ/Distributions/blob/main/images/binomial.png)
 
