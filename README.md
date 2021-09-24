@@ -1,10 +1,10 @@
 # PROBABILTY DISTRIBUTIONS FUNCTION
 
-This application calculates and visualize the probabilty density functions for:
+_This application calculates and visualize the probabilty density functions_
 
-## (i)Binomial Distribution
+### Binomial Distribution
 
-## (ii)Gaussian Distribution
+### Gaussian Distribution
 
 
 ## Installations
